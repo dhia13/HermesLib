@@ -11,13 +11,15 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+          <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossOrigin="true"
+          />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&family=Press+Start+2P&family=Roboto:wght@100;300;400;500;700;900&display=swap"
             rel="stylesheet"
           />
-          <link rel="shortcut icon" href="/favicon.ico" />
-          <title>Hermes</title>
         </Head>
         <body>
           <Main />
