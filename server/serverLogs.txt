@@ -1,0 +1,48 @@
+Date :Fri, 16 Dec 2022 00:09:03 GMT, Method: POST,Origin: /api/v1/books, 200,Content-Length: 0b sent ,user :639b86db59e6f6415a40db4d , Role :admin, 
+Date :Fri, 16 Dec 2022 00:09:22 GMT, Method: POST,Origin: /api/v1/books, 200,Content-Length: 0b sent ,user :639b86db59e6f6415a40db4d , Role :admin, 
+Date :Fri, 16 Dec 2022 00:11:01 GMT, Method: POST,Origin: /api/v1/books, 401,Content-Length: 68b sent 
+Date :Fri, 16 Dec 2022 00:11:22 GMT, Method: POST,Origin: /api/v1/books 401,Content-Length: 78b sent 
+Date :Fri, 16 Dec 2022 00:12:39 GMT, Method: POST,Origin: /api/v1/books, 401,Content-Length: 78b sent 
+Date :Fri, 16 Dec 2022 00:12:46 GMT, Method: POST,Origin: /api/v1/auth/login, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 00:13:04 GMT, Method: POST,Origin: /api/v1/books, 200,Content-Length: 0b sent ,user :639b86db59e6f6415a40db4d , Role :admin, 
+Date :Fri, 16 Dec 2022 01:31:32 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:31:45 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:31:58 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:33:25 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:34:05 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:34:34 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:34:34 GMT, Method: GET,Origin: /favicon.ico, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:35:31 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:35:33 GMT, Method: GET,Origin: /authentication, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:35:56 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:35:58 GMT, Method: GET,Origin: /authentication, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:36:06 GMT, Method: GET,Origin: /authentication, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:36:08 GMT, Method: GET,Origin: /api/v1/home, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:36:09 GMT, Method: GET,Origin: /api/v1/authentication, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:36:49 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 01:40:51 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+server is running on port http://localhost:8000
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+Date :Fri, 16 Dec 2022 01:58:33 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+Date :Fri, 16 Dec 2022 02:11:34 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+Date :Fri, 16 Dec 2022 02:11:39 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+Date :Fri, 16 Dec 2022 02:24:38 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+Date :Fri, 16 Dec 2022 02:44:58 GMT, Method: GET,Origin: /, 200,Content-Length: 0b sent 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
+server is running on port http://localhost:8000 
