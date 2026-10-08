@@ -1,0 +1,14 @@
+# Root ignores for the monorepo. client/ has its own Next.js .gitignore.
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+
+# secrets — copy the .env.example files to .env
+.env
+.env.*
+!.env.example
+
+# request logs written by server/middleware/logger.js
+serverLogs.txt
